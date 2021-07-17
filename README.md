@@ -1,4 +1,4 @@
-# DIGIT-RECOGNITION
+# DIGIT RECOGNITION
 
 ## MOTIVATION:
 * The handwritten digit recognition can play a huge role in increasing the speed of the postal systems.
@@ -27,3 +27,7 @@
 * The convolutional network architecture is LENET-5.
 * LENET-5 is one of the best architecture used for grayscale images.
 * ![LENET-5](https://qjjnh3a9hpo1nukrg1fwoh71-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/LeNet5_800px_web.jpg)
+
+## OUTCOME:
+* In this project we are able to predict the handwritten digits with an accuracy of 99%.
+* ![classification_report](https://user-images.githubusercontent.com/66214509/126035672-62578b20-2b18-43e6-aa92-d26e095d4261.png)
